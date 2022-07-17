@@ -16,9 +16,6 @@
   <h4>👨‍💻 Programming and markup languages</h4>
   
 
-          
-
-  
   
   
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nor-gribi&layout=compact)
