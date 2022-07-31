@@ -5,7 +5,6 @@
 <h3> About me </h3>
 
 <li>
-  <ul>🔭 I’m currently in the phase of discussion with a company </ul>
   <ul>🌱 I’m currently following a data analysis path</ul>
   <ul>👯 I’m working on my master thesis entitled as " detection and classification of brain tumors using deep learning methods "</ul>
   <ul>🤔 I will be glad to have people point me to courses / classes beneficial to my pace</ul>
